@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BemobileTest</string>
+    <string name="total_euro_amount">Total amount in € :</string>
+    <string name="euro_abreviation">\u00A0EUR</string>
+</resources>
